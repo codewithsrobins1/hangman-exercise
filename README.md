@@ -4,7 +4,7 @@ Classic game of hangman made using create-react-app. Goal of exercise was to pra
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/hangman-exercise/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
